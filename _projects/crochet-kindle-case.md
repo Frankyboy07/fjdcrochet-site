@@ -3,7 +3,7 @@ layout: project
 title: "Textured Cable Pouch"
 date: 2026-08-24
 summary: "A textured gold cable-stitched carrying pouch."
-featured_image: "/images/project-kindle-case/crochet-kindle-case-24.jpg"
+featured_image: "images/project-kindle-case/crochet-kindle-case-24.jpg"
 materials:
   - name: "Premier Yarn Golden Rod"
     link: "https://www.premieryarns.com/products/pbasix?variant=29636675633234&queryID=c0b5030a6e8c39b251ede03c06a7b2b20"
