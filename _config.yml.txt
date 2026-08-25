@@ -1,0 +1,5 @@
+title: FJD Crochet
+permalink: /projects/:name/
+collections:
+  projects:
+    output: true

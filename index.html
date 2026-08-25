@@ -3,159 +3,29 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>FJD Crochet | Handcrafted Crochet Projects</title>
+  <title>FJD Crochet</title>
   <style>
-    :root {
-      --bg-color: #fdfbf7;
-      --card-bg: #ffffff;
-      --accent: #d97706;
-      --text-dark: #27272a;
-      --text-muted: #71717a;
-      --border-color: #e4e4e7;
-    }
-
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-      background-color: var(--bg-color);
-      color: var(--text-dark);
-      line-height: 1.6;
-    }
-
-    header {
-      background-color: var(--card-bg);
-      border-bottom: 1px solid var(--border-color);
-      position: sticky;
-      top: 0;
-      z-index: 10;
-      padding: 1.5rem 2rem;
-      text-align: center;
-    }
-
-    header h1 {
-      font-size: 1.8rem;
-      color: var(--accent);
-      letter-spacing: -0.025em;
-    }
-
-    header p {
-      font-size: 0.95rem;
-      color: var(--text-muted);
-    }
-
-    .container {
-      max-width: 1200px;
-      margin: 2rem auto;
-      padding: 0 1.5rem;
-    }
-
-    .gallery-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-      gap: 1.5rem;
-    }
-
-    .card {
-      background-color: var(--card-bg);
-      border: 1px solid var(--border-color);
-      border-radius: 12px;
-      overflow: hidden;
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
-    }
-
-    .card:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
-    }
-
-    .card img {
-      width: 100%;
-      height: 260px;
-      object-fit: cover;
-      display: block;
-    }
-
-    .card-body {
-      padding: 1rem 1.25rem;
-    }
-
-    .card-body h3 {
-      font-size: 1.1rem;
-      margin-bottom: 0.25rem;
-    }
-
-    .card-body p {
-      font-size: 0.875rem;
-      color: var(--text-muted);
-    }
-
-    footer {
-      text-align: center;
-      padding: 3rem 1rem;
-      font-size: 0.875rem;
-      color: var(--text-muted);
-      border-top: 1px solid var(--border-color);
-      margin-top: 4rem;
-    }
+    body { font-family: system-ui, sans-serif; max-width: 1100px; margin: 0 auto; padding: 2rem 1rem; background: #fdfbf7; }
+    h1 { color: #d97706; text-align: center; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.5rem; margin-top: 2rem; }
+    .card { background: #fff; border: 1px solid #e4e4e7; border-radius: 12px; overflow: hidden; text-decoration: none; color: inherit; transition: transform 0.2s; }
+    .card:hover { transform: translateY(-4px); }
+    .card img { width: 100%; height: 240px; object-fit: cover; }
+    .card-body { padding: 1rem; }
   </style>
 </head>
 <body>
-
-  <header>
-    <h1>FJD Crochet</h1>
-    <p>Handcrafted Projects, Amigurumi & Fiber Arts</p>
-  </header>
-
-  <main class="container">
-    <div class="gallery-grid">
-
-      <!-- Cable Pouch Project -->
-      <article class="card">
-        <img src="images/PXL_20260824_005126246.jpg" alt="Textured Gold Cable Pouch" loading="lazy">
+  <h1>FJD Crochet</h1>
+  <div class="grid">
+    {% for project in site.projects %}
+      <a href="{{ project.url }}" class="card">
+        <img src="{{ project.featured_image }}" alt="{{ project.title }}">
         <div class="card-body">
-          <h3>Textured Cable Pouch</h3>
-          <p>Hand-crafted gold pouch featuring woven cable details and flap closure.</p>
+          <h3>{{ project.title }}</h3>
+          <p>{{ project.summary }}</p>
         </div>
-      </article>
-
-      <!-- Amigurumi Chicken -->
-      <article class="card">
-        <img src="images/PXL_20260304_003127310.jpg" alt="Chenille Crochet Chicken" loading="lazy">
-        <div class="card-body">
-          <h3>Chenille Amigurumi Chicken</h3>
-          <p>Plush amigurumi chicken crafted with soft chenille yarn.</p>
-        </div>
-      </article>
-
-      <!-- Mushroom Beret Hat -->
-      <article class="card">
-        <img src="images/PXL_20260412_211138495.jpg" alt="Crochet Mushroom Beret Hat" loading="lazy">
-        <div class="card-body">
-          <h3>Mushroom Beret</h3>
-          <p>Wearable red-and-white spotted mushroom cap beret.</p>
-        </div>
-      </article>
-
-      <!-- Dragon / Creature Figure -->
-      <article class="card">
-        <img src="images/PXL_20251001_121312141.MP.jpg" alt="Amigurumi Dragon Figure" loading="lazy">
-        <div class="card-body">
-          <h3>Horned Amigurumi Figure</h3>
-          <p>Detailed fantasy creature with soft horns and articulated details.</p>
-        </div>
-      </article>
-
-    </div>
-  </main>
-
-  <footer>
-    <p>&copy; FJD Crochet. Built with GitHub Pages.</p>
-  </footer>
-
+      </a>
+    {% endfor %}
+  </div>
 </body>
 </html>

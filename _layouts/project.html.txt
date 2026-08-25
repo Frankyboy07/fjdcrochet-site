@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | FJD Crochet</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 800px; margin: 2rem auto; padding: 0 1rem; color: #27272a; line-height: 1.6; }
+    a { color: #d97706; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .hero-img { width: 100%; max-height: 450px; object-fit: cover; border-radius: 12px; margin: 1.5rem 0; }
+    .materials-box { background: #fdfbf7; border: 1px solid #e4e4e7; padding: 1.5rem; border-radius: 8px; margin: 2rem 0; }
+    .back-link { display: inline-block; margin-bottom: 1rem; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <a href="/" class="back-link">&larr; Back to Portfolio</a>
+  <h1>{{ page.title }}</h1>
+
+  {% if page.featured_image %}
+    <img src="{{ page.featured_image }}" alt="{{ page.title }}" class="hero-img">
+  {% endif %}
+
+  <div class="content">
+    {{ content }}
+  </div>
+
+  {% if page.materials %}
+  <section class="materials-box">
+    <h3>Materials & Supplies Used</h3>
+    <ul>
+      {% for item in page.materials %}
+        <li>
+          <a href="{{ item.link }}" target="_blank" rel="noopener sponsored">
+            <strong>{{ item.name }}</strong>
+          </a>
+          {% if item.note %} - {{ item.note }}{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+</body>
+</html>
