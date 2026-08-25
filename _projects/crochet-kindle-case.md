@@ -2,7 +2,7 @@
 layout: project
 title: "Textured Cable Pouch"
 date: 2026-08-24
-featured_image: "/imagesproject-kindle-case/project-kindle-case-29.jpg"
+featured_image: "/images/project-kindle-case/project-kindle-case-29.jpg"
 materials:
   - name: "Chenille Velvet Yarn"
     link: "https://amazon.com/dp/EXAMPLE?tag=yourassoc-20"
