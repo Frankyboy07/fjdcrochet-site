@@ -1,4 +1,4 @@
-\---
+---
 
 layout: project
 
@@ -92,5 +92,5 @@ images:
 
 &#x20; - "/images/project-kindle-case/crochet-kindle-case-28.jpg"
 
-\---
+---
 
