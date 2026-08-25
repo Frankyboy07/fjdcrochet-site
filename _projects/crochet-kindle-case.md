@@ -6,7 +6,7 @@ summary: "A textured gold cable-stitched carrying pouch."
 featured_image: "images/project-kindle-case/crochet-kindle-case-24.jpg"
 materials:
   - name: "Premier Yarn Basix Worsted - Golden Rod"
-    link: "premieryarns.rfrl.co/zj68m"
+    link: "https://premieryarns.rfrl.co/wyvdg"
     note: "Primary yarn for main pouch body"
   - name: "Clover Crochet Hook Set G(4.0mm)"
     link: "https://www.amazon.com/Clover-3672-Amour-Crochet-sizes/dp/B00B2CCA6W"
