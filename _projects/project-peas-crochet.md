@@ -3,21 +3,21 @@ layout: project
 title: "Peas in a Pod Amigurumi"
 date: 2026-08-25
 description: "My very first amigurumi project: a trio of cute little peas in a pod made from a Michaels beginner kit."
-featured_image: images/projects/peas-in-a-pod/peas-crochet-04.jpg
+featured_image: "images/project-peas-crochet/peas-crochet-04.jpg"
 images:
-  - url: images/projects/peas-in-a-pod/peas-crochet-04.jpg
+  - url: "images/project-peas-crochet/peas-crochet-04.jpg"
     caption: "The complete trio sitting comfortably in their pea pod."
-  - url: images/projects/peas-in-a-pod/peas-crochet-03.jpg
+  - url: "images/project-peas-crochet/peas-crochet-03.jpg"
     caption: "All three individual peas lined up showcasing their custom expressions."
-  - url: images/projects/peas-in-a-pod/peas-crochet-05.jpg
+  - url: "images/project-peas-crochet/peas-crochet-05.jpg"
     caption: "Alternate view of the pea pod assembly."
-  - url: images/projects/peas-in-a-pod/peas-crochet-06.jpg
+  - url: images/projects/peas-in-a-pod/peas-crochet-06.jpg"
     caption: "Work in progress: placing safety eyes during round-by-round construction."
-  - url: images/projects/peas-in-a-pod/peas-crochet-07.jpg
+  - url: "images/project-peas-crochet/peas-crochet-07.jpg"
     caption: "Early progress on a single pea before embroidery."
-  - url: images/projects/peas-in-a-pod/peas-crochet-01.jpg
+  - url: "images/project-peas-crochet/peas-crochet-01.jpg"
     caption: "Close-up of a completed pea head before adding facial details."
-  - url: images/projects/peas-in-a-pod/peas-crochet-02.jpg
+  - url: "images/project-peas-crochet/peas-crochet-02.jpg"
     caption: "Finished individual pea with embroidered smile and cheeks."
 materials:
   - "[Michaels Beginner Amigurumi Kit](https://amzn.to/4hQetNF)"
@@ -40,7 +40,7 @@ Meet the trio of peas! This project holds a special place in my crafting journey
 
 I picked up a Michaels-branded beginner kit to get started. While the yarn included in the kit was a bit rough to work with, working through this project taught me foundational 3D crochet concepts that built my confidence for future projects.
 
-![Peas in a Pod Featured](images/projects/peas-in-a-pod/peas-crochet-04.jpg)
+![Peas in a Pod Featured]("images/project-peas-crochet/peas-crochet-04.jpg")
 
 ---
 
@@ -52,7 +52,7 @@ Being so early in my crochet journey, this project came with plenty of steep lea
 * **Safety Eyes & Embroidery:** My first time placing safety eyes and hand-sewing expressions (smiles and pink cheeks) onto finished pieces.
 * **Tool Upgrade (The Game Changer):** The kit included a small, rigid plastic needle that made weaving ends and sewing pieces together really difficult. Upgrading to a set of **[Clover Bent Tip Metal Darning Needles](https://amzn.to/4iujXhg)** was an absolute game-changer. The subtle curve at the tip makes gliding around rounded amigurumi stitches infinitely smoother!
 
-![Work in Progress](images/projects/peas-in-a-pod/peas-crochet-06.jpg)
+![Work in Progress]("images/project-peas-crochet/peas-crochet-06.jpg")
 
 ---
 
@@ -60,4 +60,4 @@ Being so early in my crochet journey, this project came with plenty of steep lea
 
 Looking back, I can definitely spot my early mistakes—like uneven tension and slightly crooked embroidery lines—but I couldn't be happier with how these little guys turned out. It took around 8 hours total to work up the pod and all three individual peas, and it proved to be an awesome milestone project.
 
-![Individual Peas Lineup](images/projects/peas-in-a-pod/peas-crochet-03.jpg)
+![Individual Peas Lineup]("images/project-peas-crochet/peas-crochet-03.jpg")
