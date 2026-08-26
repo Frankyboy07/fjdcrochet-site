@@ -1,0 +1,63 @@
+---
+layout: project
+title: "Peas in a Pod Amigurumi"
+date: 2026-08-25
+description: "My very first amigurumi project: a trio of cute little peas in a pod made from a Michaels beginner kit."
+featured_image: images/projects/peas-in-a-pod/peas-crochet-04.jpg
+images:
+  - url: images/projects/peas-in-a-pod/peas-crochet-04.jpg
+    caption: "The complete trio sitting comfortably in their pea pod."
+  - url: images/projects/peas-in-a-pod/peas-crochet-03.jpg
+    caption: "All three individual peas lined up showcasing their custom expressions."
+  - url: images/projects/peas-in-a-pod/peas-crochet-05.jpg
+    caption: "Alternate view of the pea pod assembly."
+  - url: images/projects/peas-in-a-pod/peas-crochet-06.jpg
+    caption: "Work in progress: placing safety eyes during round-by-round construction."
+  - url: images/projects/peas-in-a-pod/peas-crochet-07.jpg
+    caption: "Early progress on a single pea before embroidery."
+  - url: images/projects/peas-in-a-pod/peas-crochet-01.jpg
+    caption: "Close-up of a completed pea head before adding facial details."
+  - url: images/projects/peas-in-a-pod/peas-crochet-02.jpg
+    caption: "Finished individual pea with embroidered smile and cheeks."
+materials:
+  - "[Michaels Beginner Amigurumi Kit](https://amzn.to/4hQetNF)"
+  - "[Clover Amour Crochet Hooks](https://amzn.to/4iujXhg)"
+  - "[Clover Curved Metal Darning Needles](https://amzn.to/4iujXhg)"
+  - "Safety Eyes (Included in Kit)"
+  - "Fiberfill Stuffing"
+time_spent: "~8 hours (all parts)"
+category: "Amigurumi & Toys"
+tags:
+  - amigurumi
+  - beginner
+  - in-the-round
+  - plushie
+---
+
+## Project Overview
+
+Meet the trio of peas! This project holds a special place in my crafting journey—it was my **very first foray into amigurumi crochet** and my first attempt at working in the round. 
+
+I picked up a Michaels-branded beginner kit to get started. While the yarn included in the kit was a bit rough to work with, working through this project taught me foundational 3D crochet concepts that built my confidence for future projects.
+
+![Peas in a Pod Featured](images/projects/peas-in-a-pod/peas-crochet-04.jpg)
+
+---
+
+## What I Learned & Tool Upgrades
+
+Being so early in my crochet journey, this project came with plenty of steep learning curves:
+
+* **Working in the Round:** Learning magic rings/circles, single crochet increases, and invisible decreases to make spherical shapes.
+* **Safety Eyes & Embroidery:** My first time placing safety eyes and hand-sewing expressions (smiles and pink cheeks) onto finished pieces.
+* **Tool Upgrade (The Game Changer):** The kit included a small, rigid plastic needle that made weaving ends and sewing pieces together really difficult. Upgrading to a set of **[Clover Bent Tip Metal Darning Needles](https://amzn.to/4iujXhg)** was an absolute game-changer. The subtle curve at the tip makes gliding around rounded amigurumi stitches infinitely smoother!
+
+![Work in Progress](images/projects/peas-in-a-pod/peas-crochet-06.jpg)
+
+---
+
+## Reflection
+
+Looking back, I can definitely spot my early mistakes—like uneven tension and slightly crooked embroidery lines—but I couldn't be happier with how these little guys turned out. It took around 8 hours total to work up the pod and all three individual peas, and it proved to be an awesome milestone project.
+
+![Individual Peas Lineup](images/projects/peas-in-a-pod/peas-crochet-03.jpg)
