@@ -31,7 +31,7 @@ This collection was one of my first big ambitious projects after starting my cro
 
 The goal was to create a set of modern, speedy handmade gifts for friends and family. This was also my first time using T-Shirt yarn, which has a fascinating, stretchy, and soft feel. I ordered nice 800g double skeins, which were perfect since the pattern calls for holding two strands together throughout. It left me with just a tiny bit of extra—not enough for another full purse, but enough for a fun little side project!
 
-![Isolated Dusk Bags Collection]("images/project-crochet-dusk-bag/Gemini_Generated_Image_av2sxlav2sxlav2s.jpg")
+
 
 ---
 

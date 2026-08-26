@@ -38,7 +38,7 @@ Meet the trio of peas! This project holds a special place in my crafting journey
 
 I picked up a Michaels-branded beginner kit to get started. While the yarn included in the kit was a bit rough to work with, working through this project taught me foundational 3D crochet concepts that built my confidence for future projects.
 
-![Peas in a Pod Featured]("images/project-peas-crochet/peas-crochet-04.jpg")
+
 
 ---
 
@@ -50,12 +50,10 @@ Being so early in my crochet journey, this project came with plenty of steep lea
 * **Safety Eyes & Embroidery:** My first time placing safety eyes and hand-sewing expressions (smiles and pink cheeks) onto finished pieces.
 * **Tool Upgrade (The Game Changer):** The kit included a small, rigid plastic needle that made weaving ends and sewing pieces together really difficult. Upgrading to a set of **[Clover Bent Tip Metal Darning Needles](https://amzn.to/4iujXhg)** was an absolute game-changer. The subtle curve at the tip makes gliding around rounded amigurumi stitches infinitely smoother!
 
-![Work in Progress]("images/project-peas-crochet/peas-crochet-06.jpg")
+
 
 ---
 
 ## Reflection
 
 Looking back, I can definitely spot my early mistakes—like uneven tension and slightly crooked embroidery lines—but I couldn't be happier with how these little guys turned out. It took around 8 hours total to work up the pod and all three individual peas, and it proved to be an awesome milestone project.
-
-![Individual Peas Lineup]("images/project-peas-crochet/peas-crochet-03.jpg")
