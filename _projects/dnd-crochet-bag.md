@@ -73,7 +73,7 @@ Working through this pattern was an incredible learning experience. I got to exp
 * **Panel Assembly & Surface Slip Stitching:** Learned how individual textured panels attach to form a sturdy, structured pouch. When securing the back panel, I practiced **surface slip stitching** directly onto the back of the piece for clean, hidden seams.
 * **Crocodile / Scale Stitch:** Used on the front face to give the pouch that rugged dragon-hide aesthetic perfect for a fantasy setting.
 * **Cable Stitch & Post Stitches:** Mastered **Front Post Treble Crochet (FPtr)** and **Back Post Double Crochet (BPdc)** to construct textured cable panels.
-* **Functional Belt Loops:** Integrated custom belt loops directly into the build so the pouch sits comfortably on a Renaissance Faire garb belt.
+* **Functional Belt Loops:** Fun little addition to take it to ren faire and make it part of the costume.
 
 
 
