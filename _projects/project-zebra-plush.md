@@ -3,16 +3,16 @@ layout: project
 title: "Crochet Zebra Amigurumi"
 date: 2026-08-25
 description: "My first multi-piece assembled amigurumi plush, featuring black and white stripes to practice color changes."
-featured_image: "images/projects/project-zebra-plush/zebra-plush-05.jpg"
+featured_image: "images/project-zebra-plush/zebra-plush-05.jpg"
 images:
-  -  "images/projects/project-zebra-plush/zebra-plush-02.jpg
-  -  "images/projects/project-zebra-plush/zebra-plush-03.jpg
-  -  "images/projects/project-zebra-plush/zebra-plush-04.jpg
-  -  "images/projects/project-zebra-plush/zebra-plush-05.jpg
-  -  "images/projects/project-zebra-plush/zebra-plush-06.jpg
-  -  "images/projects/project-zebra-plush/zebra-plush-07.jpg
-  -  "images/projects/project-zebra-plush/zebra-plush-08.jpg
-  -  "images/projects/project-zebra-plush/zebra-plush-09.jpg
+  -  "images/project-zebra-plush/zebra-plush-02.jpg"
+  -  "images/project-zebra-plush/zebra-plush-03.jpg"
+  -  "images/project-zebra-plush/zebra-plush-04.jpg"
+  -  "images/project-zebra-plush/zebra-plush-05.jpg"
+  -  "images/project-zebra-plush/zebra-plush-06.jpg"
+  -  "images/project-zebra-plush/zebra-plush-07.jpg"
+  -  "images/project-zebra-plush/zebra-plush-08.jpg"
+  -  "images/project-zebra-plush/zebra-plush-09.jpg"
 materials:
   - name: "Black worsted weight yarn"
     link: "https://premieryarns.rfrl.co/zj68m"
