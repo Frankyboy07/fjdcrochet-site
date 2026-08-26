@@ -4,6 +4,23 @@ title: Home
 ---
 
 <style>
+  .hero {
+    margin: 2rem 0 1rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #e4e4e7;
+  }
+  .hero h1 {
+    margin: 0 0 0.5rem 0;
+    font-size: 2.25rem;
+    color: #111827;
+  }
+  .hero p {
+    margin: 0;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #4b5563;
+    max-width: 720px;
+  }
   .grid { 
     display: grid; 
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); 
@@ -17,11 +34,14 @@ title: Home
     overflow: hidden; 
     text-decoration: none; 
     color: inherit; 
-    transition: transform 0.2s; 
-    display: block;
+    transition: transform 0.2s, box-shadow 0.2s; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
   }
   .card:hover { 
     transform: translateY(-4px); 
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
   }
   .card img { 
     width: 100%; 
@@ -31,6 +51,7 @@ title: Home
   }
   .card-body { 
     padding: 1rem; 
+    flex-grow: 1;
   }
   .card-body h3 {
     margin: 0 0 0.5rem 0;
@@ -40,21 +61,53 @@ title: Home
     margin: 0;
     font-size: 0.95rem;
     color: #4b5563;
+    line-height: 1.4;
+  }
+  .card-tags {
+    padding: 0 1rem 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+  .tag-pill {
+    background-color: #f3f4f6;
+    color: #6b7280;
+    font-size: 0.75rem;
+    padding: 0.2rem 0.5rem;
+    border-radius: 6px;
+    font-weight: 500;
   }
 </style>
+
+<div class="hero">
+  <h1>Crafted by Hand</h1>
+  <p>Welcome! Here I document my crochet projects, pattern experiments, and handmade gifts—ranging from multi-piece amigurumi plushies to textured cable accessories.</p>
+</div>
 
 <div class="grid">
   {% for project in site.projects %}
     <a href="{{ project.url | relative_url }}" class="card">
-      {% if project.featured_image %}
-        <img src="{{ project.featured_image | relative_url }}" alt="{{ project.title }}">
-      {% endif %}
-      <div class="card-body">
-        <h3>{{ project.title }}</h3>
-        {% if project.summary %}
-          <p>{{ project.summary }}</p>
+      <div>
+        {% if project.featured_image %}
+          <img src="{{ project.featured_image | relative_url }}" alt="{{ project.title }}">
         {% endif %}
+        <div class="card-body">
+          <h3>{{ project.title }}</h3>
+          {% if project.description %}
+            <p>{{ project.description }}</p>
+          {% elsif project.summary %}
+            <p>{{ project.summary }}</p>
+          {% endif %}
+        </div>
       </div>
+      
+      {% if project.tags %}
+        <div class="card-tags">
+          {% for tag in project.tags limit:3 %}
+            <span class="tag-pill">#{{ tag }}</span>
+          {% endfor %}
+        </div>
+      {% endif %}
     </a>
   {% endfor %}
 </div>
