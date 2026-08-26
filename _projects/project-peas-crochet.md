@@ -13,11 +13,14 @@ images:
   - "images/project-peas-crochet/peas-crochet-01.jpg"
   - "images/project-peas-crochet/peas-crochet-02.jpg"
 materials:
-  - "[Michaels Beginner Amigurumi Kit](https://amzn.to/4hQetNF)"
-  - "[Clover Amour Crochet Hooks](https://amzn.to/4iujXhg)"
-  - "[Clover Curved Metal Darning Needles](https://amzn.to/4iujXhg)"
-  - "Safety Eyes (Included in Kit)"
-  - "Fiberfill Stuffing"
+  - name: "Michaels Beginner Amigurumi Kit"
+    link: "(https://amzn.to/4hQetNF)"
+  - name: "Clover Amour Crochet Hooks"
+    link: "(https://amzn.to/4iujXhg)"
+  - name: "Clover Curved Metal Darning Needles"
+    link: "(https://amzn.to/4iujXhg)"
+  - name:"Safety Eyes (Included in Kit)"
+  - name:"Fiberfill Stuffing"
 time_spent: "~8 hours (all parts)"
 
 

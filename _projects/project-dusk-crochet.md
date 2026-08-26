@@ -7,10 +7,13 @@ featured_image: "images/project-crochet-dusk-bag/Gemini_Generated_Image_av2sxlav
 images:
   - "images/project-crochet-dusk-bag/Gemini_Generated_Image_av2sxlav2sxlav2s.jpg"
 materials:
-  - "[LooseThreads Dusk Bag Pattern](https://loosendscrochet.com/collections/patterns/products/the-dusk-bag-pattern)"
-  - "[T-Shirt Yarn (various colors)](https://amzn.to/3SSUFPy)"
-  - "[12mm Crochet Hook](https://amzn.to/4gf1QKQ)"
-  - "Clover 12mm Hook (strongly recommended over generic)"
+  - name:  "LooseThreads Dusk Bag Pattern"
+    link: "https://loosendscrochet.com/collections/patterns/products/the-dusk-bag-pattern)"
+  - name: "T-Shirt Yarn (various colors)"
+    link: "(https://amzn.to/3SSUFPy)"
+  - name: "12mm Crochet Hook"
+    link: "(https://amzn.to/4gf1QKQ)"
+  - name: "Clover 12mm Hook (strongly recommended over generic)"
 time_spent: "On average, 2-3 hours per bag."
 recipient: "Gifts for Alison, Ethan, Mom, Linda, and a mini one for Sophie."
 category: "Bags & Purses"
