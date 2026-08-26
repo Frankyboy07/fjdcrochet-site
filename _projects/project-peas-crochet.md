@@ -5,20 +5,13 @@ date: 2026-08-25
 description: "My very first amigurumi project: a trio of cute little peas in a pod made from a Michaels beginner kit."
 featured_image: "images/project-peas-crochet/peas-crochet-04.jpg"
 images:
-  - url: "images/project-peas-crochet/peas-crochet-04.jpg"
-    caption: "The complete trio sitting comfortably in their pea pod."
-  - url: "images/project-peas-crochet/peas-crochet-03.jpg"
-    caption: "All three individual peas lined up showcasing their custom expressions."
-  - url: "images/project-peas-crochet/peas-crochet-05.jpg"
-    caption: "Alternate view of the pea pod assembly."
-  - url: images/projects/peas-in-a-pod/peas-crochet-06.jpg"
-    caption: "Work in progress: placing safety eyes during round-by-round construction."
-  - url: "images/project-peas-crochet/peas-crochet-07.jpg"
-    caption: "Early progress on a single pea before embroidery."
-  - url: "images/project-peas-crochet/peas-crochet-01.jpg"
-    caption: "Close-up of a completed pea head before adding facial details."
-  - url: "images/project-peas-crochet/peas-crochet-02.jpg"
-    caption: "Finished individual pea with embroidered smile and cheeks."
+  - "images/project-peas-crochet/peas-crochet-04.jpg"
+  - "images/project-peas-crochet/peas-crochet-03.jpg"
+  - "images/project-peas-crochet/peas-crochet-05.jpg"
+  - "images/projects/peas-in-a-pod/peas-crochet-06.jpg"
+  - "images/project-peas-crochet/peas-crochet-07.jpg"
+  - "images/project-peas-crochet/peas-crochet-01.jpg"
+  - "images/project-peas-crochet/peas-crochet-02.jpg"
 materials:
   - "[Michaels Beginner Amigurumi Kit](https://amzn.to/4hQetNF)"
   - "[Clover Amour Crochet Hooks](https://amzn.to/4iujXhg)"
@@ -26,6 +19,8 @@ materials:
   - "Safety Eyes (Included in Kit)"
   - "Fiberfill Stuffing"
 time_spent: "~8 hours (all parts)"
+
+
 category: "Amigurumi & Toys"
 tags:
   - amigurumi

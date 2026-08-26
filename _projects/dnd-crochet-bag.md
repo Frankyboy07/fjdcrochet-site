@@ -5,7 +5,6 @@ date: 2026-08-25
 description: "A Dungeons & Dragons themed textured Kindle pouch with belt loops crafted for Ren Faire."
 featured_image: "images/project-kindle-case/crochet-kindle-case-24.jpg"
 images:
-images:
   - "images/project-kindle-case/crochet-kindle-case-29.jpg"
   - "images/project-kindle-case/crochet-kindle-case-30.jpg"
   - "images/project-kindle-case/crochet-kindle-case-31.jpg"
@@ -43,9 +42,9 @@ materials:
     link: "https://premieryarns.rfrl.co/wyvdg"
     note: "Primary yarn for main pouch body"
   - name: "Clover Crochet Hook Set G(4.0mm)"
-    link: "https://www.amazon.com/Clover-3672-Amour-Crochet-sizes/dp/B00B2CCA6W"
+    link: "https://amzn.to/45SM6qT"
   - name: "Dungeons and Dragons Crochet book"
-    link: "https://www.amazon.com/Dungeons-Dragons-Crochet-Book-Patterns/dp/0593836766"
+    link: "https://amzn.to/4xhDTbJ"
     note: "In the wearables section"
 time_spent: "2 days (~6 hours)"
 recipient: "Alison"
