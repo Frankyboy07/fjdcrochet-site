@@ -8,7 +8,7 @@ images:
   - "images/project-peas-crochet/peas-crochet-04.jpg"
   - "images/project-peas-crochet/peas-crochet-03.jpg"
   - "images/project-peas-crochet/peas-crochet-05.jpg"
-  - "images/projects/peas-in-a-pod/peas-crochet-06.jpg"
+  - "images/project-peas-crochet/peas-crochet-06.jpg"
   - "images/project-peas-crochet/peas-crochet-07.jpg"
   - "images/project-peas-crochet/peas-crochet-01.jpg"
   - "images/project-peas-crochet/peas-crochet-02.jpg"
@@ -22,8 +22,6 @@ materials:
   - name:"Safety Eyes (Included in Kit)"
   - name:"Fiberfill Stuffing"
 time_spent: "~8 hours (all parts)"
-
-
 category: "Amigurumi & Toys"
 tags:
   - amigurumi
